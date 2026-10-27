@@ -1,0 +1,15 @@
+Awake
+OnDisable
+Awake end
+Run done
+--- frame 1 ---
+--- frame 2 ---
+OnEnable
+OnDisable
+OnEnable
+flipped
+Start
+--- frame 3 ---
+OnDisable
+off
+--- frame 4 ---

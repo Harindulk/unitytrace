@@ -1,0 +1,121 @@
+{
+ "S01": {
+  "task": "T1 lifecycle & activation order",
+  "title": "GameObject activation and AddComponent",
+  "scored": false
+ },
+ "S07": {
+  "task": "T1 lifecycle & activation order",
+  "title": "DefaultExecutionOrder"
+ },
+ "S08": {
+  "task": "T1 lifecycle & activation order",
+  "title": "Instantiating an inactive template"
+ },
+ "S16": {
+  "task": "T1 lifecycle & activation order",
+  "title": "LateUpdate follow chain"
+ },
+ "S17": {
+  "task": "T1 lifecycle & activation order",
+  "title": "AddComponent from Awake and Start"
+ },
+ "S18": {
+  "task": "T1 lifecycle & activation order",
+  "title": "Toggling enabled"
+ },
+ "S02": {
+  "task": "T2 coroutines & timers",
+  "title": "Yield points within a frame"
+ },
+ "S15": {
+  "task": "T2 coroutines & timers",
+  "title": "StopCoroutine and disabling"
+ },
+ "S19": {
+  "task": "T2 coroutines & timers",
+  "title": "Exception inside a coroutine"
+ },
+ "S20": {
+  "task": "T2 coroutines & timers",
+  "title": "WaitUntil / WaitWhile"
+ },
+ "S03": {
+  "task": "T3 destruction & null semantics",
+  "title": "Destroy timing, OnDisable, OnDestroy",
+  "scored": false
+ },
+ "S12": {
+  "task": "T3 destruction & null semantics",
+  "title": "Null checks on destroyed objects"
+ },
+ "S13": {
+  "task": "T4 messaging & events",
+  "title": "SendMessage / BroadcastMessage"
+ },
+ "S22": {
+  "task": "T4 messaging & events",
+  "title": "Delegates mutated while invoked"
+ },
+ "S28": {
+  "task": "T4 messaging & events",
+  "title": "Broadcast to inactive children"
+ },
+ "S10": {
+  "task": "T5 physics steps & queries",
+  "title": "AddForce vs velocity reads"
+ },
+ "S11": {
+  "task": "T5 physics steps & queries",
+  "title": "Trigger rules with kinematic bodies"
+ },
+ "S23": {
+  "task": "T5 physics steps & queries",
+  "title": "Kinematic MovePosition vs transform"
+ },
+ "S25": {
+  "task": "T5 physics steps & queries",
+  "title": "Raycast and transform sync"
+ },
+ "S05": {
+  "task": "T6 transform & rotation math",
+  "title": "Parent/child transform math"
+ },
+ "S27": {
+  "task": "T6 transform & rotation math",
+  "title": "Rotation order and Euler results"
+ },
+ "S06": {
+  "task": "T7 exceptions inside callbacks",
+  "title": "Exceptions in handlers, UnityEvent, Awake"
+ },
+ "S26": {
+  "task": "T7 exceptions inside callbacks",
+  "title": "Exceptions in Awake/OnEnable/Start/Update"
+ },
+ "S29": {
+  "task": "T3 destruction & null semantics",
+  "title": "Destroying a hierarchy",
+  "scored": false
+ },
+ "S34": {
+  "task": "T3 destruction & null semantics",
+  "title": "Queries on a destroyed object"
+ },
+ "S31": {
+  "task": "T2 coroutines & timers",
+  "title": "Where coroutines start running"
+ },
+ "S33": {
+  "task": "T2 coroutines & timers",
+  "title": "finally blocks when coroutines stop"
+ },
+ "S35": {
+  "task": "T3 destruction & null semantics",
+  "title": "Destroying a component"
+ },
+ "S36": {
+  "task": "T3 destruction & null semantics",
+  "title": "Destroying a GameObject from its own Awake"
+ }
+}

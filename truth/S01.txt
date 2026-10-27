@@ -1,0 +1,14 @@
+A:Awake
+A:OnEnable
+activating B
+B:Awake
+B:OnEnable
+C:Awake
+C:OnEnable
+Run done
+--- frame 1 ---
+A:Start
+B:Start
+C:Start
+--- frame 2 ---
+--- frame 3 ---

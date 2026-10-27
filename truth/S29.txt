@@ -1,0 +1,24 @@
+Root:Awake
+Root:OnEnable
+A:Awake
+A:OnEnable
+B:Awake
+B:OnEnable
+A1:Awake
+A1:OnEnable
+--- frame 1 ---
+Root:Start
+A:Start
+B:Start
+A1:Start
+detached A1
+A:OnDisable
+Root:OnDisable
+B:OnDisable
+count now 4
+B inHierarchy True
+A:OnDestroy
+Root:OnDestroy
+B:OnDestroy
+late: count 1
+--- frame 2 ---

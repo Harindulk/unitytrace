@@ -1,0 +1,5 @@
+--- frame 1 ---
+hit before move: True
+hit after moving transform: True
+hit after SyncTransforms: False
+--- frame 2 ---

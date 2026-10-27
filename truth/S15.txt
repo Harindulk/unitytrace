@@ -1,0 +1,16 @@
+Run done
+--- frame 1 ---
+A1
+B1
+--- frame 2 ---
+A2
+B2
+killing A
+disabling component
+--- frame 3 ---
+B3
+killer still alive
+after SetActive(false)
+--- frame 4 ---
+--- frame 5 ---
+--- frame 6 ---

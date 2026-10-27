@@ -1,0 +1,32 @@
+Run done
+--- frame 1 ---
+Zone fixed
+Mover fixed
+Plain fixed
+slider at x=1.5
+--- frame 2 ---
+Zone fixed
+Mover fixed
+Plain fixed
+slider at x=0
+--- frame 3 ---
+Zone fixed
+Mover fixed
+Plain fixed
+Zone trigger-enter Mover
+Mover trigger-enter Zone
+Zone trigger-stay Mover
+Mover trigger-stay Zone
+slider at x=-1.5
+--- frame 4 ---
+Zone fixed
+Mover fixed
+Plain fixed
+Zone trigger-exit Mover
+Mover trigger-exit Zone
+slider at x=-3
+--- frame 5 ---
+Zone fixed
+Mover fixed
+Plain fixed
+slider at x=-4.5

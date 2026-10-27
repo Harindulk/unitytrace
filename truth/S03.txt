@@ -1,0 +1,18 @@
+Parent:Awake
+Parent:OnEnable
+Child:Awake
+Child:OnEnable
+--- frame 1 ---
+Parent:Start
+Child:Start
+Killer:Update
+Parent:OnDisable
+Child:OnDisable
+parent==null:False activeSelf:True childCount:1
+components after Destroy: 1
+Killer:Update end
+Parent:OnDestroy
+Child:OnDestroy
+Killer:OnDestroy
+--- frame 2 ---
+--- frame 3 ---

@@ -1,0 +1,15 @@
+Late:Awake
+Normal:Awake
+Early:Awake
+Run done
+--- frame 1 ---
+Late:Start
+Normal:Start
+Early:Start
+Early:Update
+Normal:Update
+Late:Update
+--- frame 2 ---
+Early:Update
+Normal:Update
+Late:Update

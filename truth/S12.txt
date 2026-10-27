@@ -1,0 +1,8 @@
+--- frame 1 ---
+== null: False, is null: False
+coalesce: Target
+coalesce-assign ok: Transform
+--- frame 2 ---
+== null: True, is null: False
+threw MissingReferenceException
+coalesce-assign ok: Transform

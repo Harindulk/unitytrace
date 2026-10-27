@@ -1,0 +1,8 @@
+--- frame 1 ---
+before: go==null False, GetComponent present, Find True, tagged 1
+same frame: go==null False, GetComponent present, Find True, tagged 1
+--- frame 2 ---
+frame 2: go==null True, GetComponent MissingReferenceException, Find False, tagged 0
+Instantiate threw MissingReferenceException
+--- frame 3 ---
+frame 3: go==null True, GetComponent MissingReferenceException, Find False, tagged 0

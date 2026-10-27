@@ -1,0 +1,42 @@
+Awake
+R1
+Awake end
+Run done
+--- frame 1 ---
+FixedUpdate
+Update
+R2
+LateUpdate
+--- frame 2 ---
+FixedUpdate
+R3
+Update
+LateUpdate
+--- frame 3 ---
+FixedUpdate
+Update
+LateUpdate
+--- frame 4 ---
+FixedUpdate
+Update
+LateUpdate
+--- frame 5 ---
+FixedUpdate
+Update
+R4
+I1
+LateUpdate
+--- frame 6 ---
+FixedUpdate
+Update
+I2
+R5
+LateUpdate
+--- frame 7 ---
+FixedUpdate
+Update
+LateUpdate
+--- frame 8 ---
+FixedUpdate
+Update
+LateUpdate

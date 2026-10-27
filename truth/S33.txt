@@ -1,0 +1,16 @@
+--- frame 1 ---
+stopped step 1
+completes step 1
+deactivated step 1
+--- frame 2 ---
+stopped step 2
+completes finished loop
+completes finally
+deactivated step 2
+-- StopCoroutine
+-- after StopCoroutine
+--- frame 3 ---
+deactivated step 3
+-- SetActive(false)
+-- after SetActive(false)
+--- frame 4 ---

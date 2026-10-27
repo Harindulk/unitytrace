@@ -1,0 +1,21 @@
+--- frame 1 ---
+FixedUpdate
+F1
+Update 1
+U1
+LateUpdate
+L1
+--- frame 2 ---
+FixedUpdate
+Update 2
+F2
+U2
+L2
+LateUpdate
+--- frame 3 ---
+FixedUpdate
+F3
+U3
+L3
+Update 3
+LateUpdate

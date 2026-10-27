@@ -1,0 +1,9 @@
+--- frame 1 ---
+Fixed 1: rb.x=0 rb.y=0 tr.x=0 tr.y=0
+Update: rb.x=1 rb.y=0 tr.x=1 tr.y=0
+--- frame 2 ---
+Fixed 2: rb.x=1 rb.y=0 tr.x=1 tr.y=5
+Update: rb.x=1 rb.y=5 tr.x=1 tr.y=5
+--- frame 3 ---
+Fixed 3: rb.x=1 rb.y=5 tr.x=1 tr.y=5
+Update: rb.x=1 rb.y=5 tr.x=1 tr.y=5

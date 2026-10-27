@@ -1,0 +1,13 @@
+Leaf:OnDisable
+Off:OnDisable
+Mid:Ping(1)
+Root:Ping(2)
+Mid:Ping(2)
+Off:Ping(2)
+Mid:Pong
+Root:Pong
+Mid:OnDisable
+Root:OnDisable
+Run done
+--- frame 1 ---
+--- frame 2 ---

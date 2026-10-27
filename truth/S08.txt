@@ -1,0 +1,11 @@
+template ready
+Run done
+--- frame 1 ---
+Spawner:Start
+instantiated, clone.activeSelf=False
+Clone:Awake
+Clone:OnEnable
+clone activated
+Clone:Start
+--- frame 2 ---
+--- frame 3 ---

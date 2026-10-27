@@ -1,0 +1,14 @@
+--- frame 1 ---
+Bad 1
+Good 1
+Outer begin
+Inner begin
+--- frame 2 ---
+Bad 2
+EXCEPTION: InvalidOperationException
+Good 2
+--- frame 3 ---
+Good 3
+Inner end
+Outer end
+--- frame 4 ---

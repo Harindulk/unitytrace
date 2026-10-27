@@ -1,0 +1,9 @@
+{
+  "name": "Capture",
+  "references": ["UnityEngine.TestRunner", "UnityEditor.TestRunner", "Scenarios"],
+  "includePlatforms": [],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"],
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "autoReferenced": false
+}

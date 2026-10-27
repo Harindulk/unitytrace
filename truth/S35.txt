@@ -1,0 +1,12 @@
+--- frame 1 ---
+Victim:Update
+Suicidal:Update begin
+Suicidal:Update end, enabled=False, this==null:False
+Victim:OnDisable
+Killer: requested, victim.enabled=False, victim==null:False
+Suicidal:OnDestroy
+Victim:OnDestroy
+--- frame 2 ---
+Killer: frame 2, victim==null:True
+--- frame 3 ---
+Killer: frame 3, victim==null:True

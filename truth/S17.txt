@@ -1,0 +1,16 @@
+A:Awake begin
+B:Awake
+B:OnEnable
+A:Awake end
+A:OnEnable
+Run done
+--- frame 1 ---
+A:Start
+Late:Awake
+Late:OnEnable
+A:Start end
+B:Start
+Late:Start
+Late:Update
+--- frame 2 ---
+Late:Update

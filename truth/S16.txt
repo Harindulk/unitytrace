@@ -1,0 +1,19 @@
+Run done
+--- frame 1 ---
+Mover x=1
+Follower:Update sees x=1
+Follower:Update sees x=0
+Follower:LateUpdate sees x=1
+Follower:LateUpdate sees x=1
+--- frame 2 ---
+Mover x=2
+Follower:Update sees x=2
+Follower:Update sees x=1
+Follower:LateUpdate sees x=2
+Follower:LateUpdate sees x=2
+--- frame 3 ---
+Mover x=3
+Follower:Update sees x=3
+Follower:Update sees x=2
+Follower:LateUpdate sees x=3
+Follower:LateUpdate sees x=3

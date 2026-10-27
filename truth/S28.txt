@@ -1,0 +1,20 @@
+Root:Awake
+Root:OnEnable
+On:Awake
+On:OnEnable
+-- broadcast
+Root:Hit
+On:Hit
+-- broadcast includeInactive via SendMessageOptions
+Root:Hit
+On:Hit
+-- children (inactive included)
+Root:Hit
+On:Hit
+-- children (default)
+Root:Hit
+On:Hit
+-- find
+count 2
+count incl inactive 4
+--- frame 1 ---

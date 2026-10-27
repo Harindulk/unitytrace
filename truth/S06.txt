@@ -1,0 +1,11 @@
+handler 1
+caught x
+unity 1
+caught y
+Thrower:Awake
+EXCEPTION: InvalidOperationException
+Run done
+--- frame 1 ---
+Bystander:Update
+--- frame 2 ---
+Bystander:Update

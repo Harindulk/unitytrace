@@ -1,0 +1,20 @@
+--- frame 1 ---
+Start: waiting for counter
+Update counter=1
+LateUpdate counter=1
+--- frame 2 ---
+Update counter=2
+WaitUntil released at counter=2
+Start: yield 2
+LateUpdate counter=2
+--- frame 3 ---
+Update counter=3
+Start done
+LateUpdate counter=3
+--- frame 4 ---
+Update counter=4
+WaitWhile released at counter=4
+LateUpdate counter=4
+--- frame 5 ---
+Update counter=5
+LateUpdate counter=5

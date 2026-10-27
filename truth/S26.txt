@@ -1,0 +1,19 @@
+B:OnEnable
+EXCEPTION: ArgumentException
+C:Awake
+Run done
+--- frame 1 ---
+B:Start
+C:Start
+EXCEPTION: NullReferenceException
+A:Update
+EXCEPTION: InvalidOperationException
+B:Update
+C:Update
+A:LateUpdate
+--- frame 2 ---
+A:Update
+EXCEPTION: InvalidOperationException
+B:Update
+C:Update
+A:LateUpdate

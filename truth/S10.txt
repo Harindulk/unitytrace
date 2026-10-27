@@ -1,0 +1,11 @@
+Run done
+--- frame 1 ---
+Start v=(0, 0, 0)
+FixedUpdate v=(0, 0, 0) x=0
+Update v=(1, 0, 0) tx=0.02
+--- frame 2 ---
+FixedUpdate v=(1, 0, 0) x=0.02
+Update v=(1, 0, 0) tx=0.04
+--- frame 3 ---
+FixedUpdate v=(1, 0, 0) x=0.04
+Update v=(1, 0, 0) tx=0.06

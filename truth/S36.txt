@@ -1,0 +1,11 @@
+Awake begin
+OnDisable
+Awake end
+Run done
+Other:Awake
+--- frame 1 ---
+Other:Start
+OnDestroy
+Other:Update
+--- frame 2 ---
+Other:Update
