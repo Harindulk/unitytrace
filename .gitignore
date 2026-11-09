@@ -20,3 +20,4 @@ unity_truth/Packages/packages-lock.json
 *.meta
 unity_truth/Assets.meta
 micro1eval-submission.zip
+!.env.example
